@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Auth.Client:build:production"
+              "buildTarget": "Auth.Client:build:production"
             },
             "development": {
-              "browserTarget": "Auth.Client:build:development"
+              "buildTarget": "Auth.Client:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Auth.Client:build"
+            "buildTarget": "Auth.Client:build"
           }
         },
         "test": {
