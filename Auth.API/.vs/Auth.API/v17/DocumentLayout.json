@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\models\\appuser\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:models\\appuser\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\auth.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:auth.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\data\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:data\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|c:\\users\\hue\\desktop\\work spaces self\\pet_project\\core_project\\auth.project\\auth.api\\migrations\\20240811191752_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D492C0D-FCAE-4539-979C-F8A5B1371572}|Auth.API.csproj|solutionrelative:migrations\\20240811191752_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleAssignDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RoleAssignDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RoleAssignDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RoleAssignDto.cs",
+              "RelativeToolTip": "Dto\\RoleAssignDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:24:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RoleResponseDto.cs",
+              "RelativeToolTip": "Dto\\RoleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:23:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\CreateRoleDto.cs",
+              "RelativeToolTip": "Dto\\CreateRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:00:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:12:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T19:44:05.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwJQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:43:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240811191752_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Migrations\\20240811191752_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240811191752_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Migrations\\20240811191752_CreateDatabase.cs",
+              "RelativeToolTip": "Migrations\\20240811191752_CreateDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:17:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T17:45:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:48:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auth.API.http",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.http",
+              "RelativeDocumentMoniker": "Auth.API.http",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.http",
+              "RelativeToolTip": "Auth.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-13T14:57:51.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Models\\AppUser\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser\\AppUser.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Models\\AppUser\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:27:51.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:51:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\UserDetailDto.cs",
+              "RelativeToolTip": "Dto\\UserDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:17:03.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:10:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Dto\\AuthResponseDto.cs",
+              "RelativeToolTip": "Dto\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:00:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Data\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Data\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:29:30.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
