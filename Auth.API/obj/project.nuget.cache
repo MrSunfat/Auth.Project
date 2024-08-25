@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d19wkNSD6yA=",
+  "dgSpecHash": "ZYrjuQ9F3Qc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
+  "projectFilePath": "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

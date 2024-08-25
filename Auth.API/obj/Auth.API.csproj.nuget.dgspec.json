@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj": {}
+    "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj": {
+    "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
+        "projectUniqueName": "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
         "projectName": "Auth.API",
-        "projectPath": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
+        "projectPath": "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\Auth.API.csproj",
         "packagesPath": "C:\\Users\\hue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hue\\Desktop\\Work Spaces Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\obj\\",
+        "outputPath": "C:\\Users\\hue\\Desktop\\Work_Spaces_Self\\PET_Project\\Core_Project\\Auth.Project\\Auth.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
